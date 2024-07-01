@@ -1,2 +1,2 @@
-#please check the link#
-https://wtidoink.github.io/hacker-website/
+##This project is replicated version of matrix drop
+[CHECK LINK](https://typedefuser.github.io/hacker-website/)
